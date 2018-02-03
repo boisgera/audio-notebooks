@@ -1,10 +1,8 @@
-name: audio
 dependencies:
   - python=2.7
   - jupyter
   - numpy
   - scipy
   - matplotlib
-  - bitstream
-  - audio.wave
+
   
