@@ -5,6 +5,7 @@ dependencies:
   - scipy
   - matplotlib
   - jupyter
+  - ipywidgets
   - pip:
     - audio.bitstream
     - audio.wave
