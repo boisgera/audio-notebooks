@@ -7,8 +7,14 @@ dependencies:
   - jupyter
   - ipywidgets
   - pip:
+    - wish
     - audio.bitstream
+    - audio.coders
+    - audio.filters
+    - audio.fourier
+    - audio.index
+    - audio.lp
+    - audio.psychoacoustics
+    - audio.quantizers
     - audio.wave
 
-
-  
