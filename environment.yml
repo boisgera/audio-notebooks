@@ -13,7 +13,7 @@ dependencies:
     - audio.coders
     - audio.filters
     - audio.fourier
-#    - audio.index
+    - audio.index
     - audio.lp
     - audio.psychoacoustics
     - audio.quantizers
