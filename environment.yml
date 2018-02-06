@@ -6,6 +6,7 @@ dependencies:
   - matplotlib
   - jupyter
   - ipywidgets
+  - nltk
   - pip:
     - wish
     - audio.bitstream
