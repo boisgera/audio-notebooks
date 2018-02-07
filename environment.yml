@@ -1,6 +1,6 @@
 name: audio
-channels:
-  - conda-forge
+#channels:
+#  - conda-forge
 dependencies:
   - python=2.7
   - numpy
@@ -9,7 +9,7 @@ dependencies:
   - jupyter
   - ipywidgets
   - nltk
-  - nltk_data
+#  - nltk_data
   - pip:
     - wish
     - audio.bitstream
