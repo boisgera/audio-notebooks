@@ -9,7 +9,15 @@ Context: [Digital Audio Coding][audio] course (Mines ParisTech/S1916)
 [binder-badge]: https://img.shields.io/badge/Launch-Binder-blue.svg?style=flat-square
 [audio-binder]: https://mybinder.org/v2/gh/boisgera/audio-notebooks/master
 
-[Binder] turns this GitHub repository into a collection of interactive notebooks.
+
+
+[Binder] provides an environment to execute the Jupyter notebooks stored in this
+GitHub repository. 
+
+Learn more about [Jupyter notebooks][jupyter]
+
+[jupyter]: http://jupyter.org/
+
 With Binder:
 
 
