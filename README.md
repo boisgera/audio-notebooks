@@ -10,10 +10,10 @@ To get started: [![Launch Binder][binder-badge]][audio-binder]
 [audio-binder]: https://mybinder.org/v2/gh/boisgera/audio-notebooks/master
 
 [Binder] turns this GitHub repository into a collection of interactive notebooks.
-In Binder:
+Width Binder:
 
 
-  - **You can't break anything (no matter how hard you try)**.
+  - **You can't break anything (no matter how hard you try).**  
     Each Binder session starts with a new copy of the files in repository.  
     
 
