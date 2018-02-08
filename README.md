@@ -19,11 +19,11 @@ With Binder:
 
   - **You must download your notebooks to save your work.**  
     Open the `File` menu then select `Download as` and  `Notebook (.ipynb)`
-    (you can also download any file -- not merely notebooks -- 
+    (you can also download any file, not merely notebooks, 
     from the "filesystem view"; you can also upload files in this view).
 
     This is necessary since all your changes are lost when you close your browser.
-    Also, the "disk" button -- `Save and Checkpoint` -- won't work
+    Also, the "disk" button (`Save and Checkpoint`) won't work
     (well, it kinda does but only to save your notebook
     in a [Linux container] hosted "somewhere in the cloud" and 
     that will be destroyed shortly.)
