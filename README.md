@@ -4,11 +4,8 @@
 
 [audio]: https://eul.ink/audio
 
-## Getting Started
+Click on [![Launch Binder][binder-badge]][audio-binder] to get started.
 
-[![Launch Binder][binder-badge]][audio-binder]
-
-Then ...
 
 [binder-badge]: https://img.shields.io/badge/Launch-Binder-blue.svg?style=flat-square
 [audio-binder]: https://mybinder.org/v2/gh/boisgera/audio-notebooks/master
