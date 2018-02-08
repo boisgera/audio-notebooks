@@ -10,7 +10,7 @@ To get started: [![Launch Binder][binder-badge]][audio-binder]
 [audio-binder]: https://mybinder.org/v2/gh/boisgera/audio-notebooks/master
 
 [Binder] turns this GitHub repository into a collection of interactive notebooks.
-Width Binder:
+With Binder:
 
 
   - **You can't break anything (no matter how hard you try).**  
@@ -19,7 +19,7 @@ Width Binder:
 
   - **You must download your notebooks to save your work**  
     since all your changes are lost when you close your browser.  
-    Open the `File` menu then select `Download as / Notebook (.ipynb)`.
+    Open the `File` menu then select `Download as` and  `Notebook (.ipynb)`.
 
 
 [Binder]: https://mybinder.org/
