@@ -20,7 +20,11 @@ With Binder:
   - **You must download your notebooks to save your work.**  
     All your changes are lost when you close your browser.  
     Open the `File` menu then select `Download as` and  `Notebook (.ipynb)`.
+    The "disk" icon -- for `Save and Checkpoint` -- won't work
+    (well, it kinda does but only to save your notebook
+    in a [Linux container] hosted "somewhere in the cloud" and 
+    that will be destroyed shortly.)
 
 
 [Binder]: https://mybinder.org/
-
+[Linux container]: https://en.wikipedia.org/wiki/Linux_containers
