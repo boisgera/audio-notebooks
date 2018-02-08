@@ -10,7 +10,7 @@
 
 Then ...
 
-[binder-badge]: https://img.shields.io/badge/Launch-Binder-orange.svg?style=flat-square
+[binder-badge]: https://img.shields.io/badge/Launch-Binder-blue.svg?style=flat-square
 [audio-binder]: https://mybinder.org/v2/gh/boisgera/audio-notebooks/master
 
 ## FAQ
