@@ -1,6 +1,6 @@
 # Digital Audio Coding Notebooks
 
-Context: [Digital Audio Coding course][audio]
+Context: [Digital Audio Coding][audio] course (Mines ParisTech/S1916)
 
 [audio]: https://eul.ink/audio
 
