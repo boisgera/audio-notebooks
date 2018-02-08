@@ -6,11 +6,11 @@
 
 ## Getting Started
 
-[**Launch Binder**][audio-binder]
+[![Launch Binder][binder-badge]][audio-binder]
 
 Then ...
 
-
+[binder-badge]: https://img.shields.io/badge/Launch-Binder-orange.svg?style=flat-square
 [audio-binder]: https://mybinder.org/v2/gh/boisgera/audio-notebooks/master
 
 ## FAQ
