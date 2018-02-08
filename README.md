@@ -31,9 +31,9 @@ With Binder:
 If you want to work without Binder and you have a Linux computer 
 with [conda] available, download this project and execute:
 
-    $ conda env create -f environment.yml # create the 'audio' environment
-    $ source activate audio               # activate 'audio'
-    (audio) $ jupyter notebook            # start the jupyter server
+    $ conda env create -f environment.yml   # create the 'audio' environment
+    $ source activate audio                 # activate 'audio'
+    (audio) $ jupyter notebook              # start the jupyter server
 
 
 [Binder]: https://mybinder.org/
