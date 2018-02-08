@@ -26,6 +26,13 @@ With Binder:
     in a [Linux container] hosted "somewhere in the cloud" and 
     that will be destroyed shortly.)
 
+If you want to work on
+
+    $ conda env create -f environment.yml
+    $ source activate audio
+    (audio) $ jupyter notebook 
+
+
 
 [Binder]: https://mybinder.org/
 [Linux container]: https://en.wikipedia.org/wiki/Linux_containers
