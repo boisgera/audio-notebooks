@@ -1,6 +1,6 @@
 name: audio
 #channels:
-#  - conda-forge
+#  - conda-forge # for nltk-data
 dependencies:
   - python=2.7
   - numpy
@@ -9,7 +9,7 @@ dependencies:
   - jupyter
   - ipywidgets
   - nltk
-#  - nltk_data
+#  - nltk_data # too large (>400MB) and I only need TIMIT.
   - pip:
     - wish
     - audio.bitstream
