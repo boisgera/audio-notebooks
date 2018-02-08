@@ -32,7 +32,7 @@ To work without Binder, you need a Linux computer with [conda] available.
 Download the project files and execute:
 
     $ conda env create -f environment.yml   # create the 'audio' environment
-    $ source activate audio                 # activate 'audio'
+    $ source activate audio                 # activate the 'audio' environment
     (audio) $ jupyter notebook              # start the jupyter server
 
 
