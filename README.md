@@ -17,8 +17,8 @@ With Binder:
     Each Binder session starts with a new copy of the files in repository.  
     
 
-  - **You must download your notebooks to save your work**  
-    since all your changes are lost when you close your browser.  
+  - **You must download your notebooks to save your work.**  
+    All your changes are lost when you close your browser.  
     Open the `File` menu then select `Download as` and  `Notebook (.ipynb)`.
 
 
