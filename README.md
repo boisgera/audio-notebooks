@@ -6,9 +6,14 @@
 
 ## Getting Started
 
-Start a Jupyter session with Binder: [![Binder](https://mybinder.org/badge.svg)][audio-binder]
+[**Launch Binder**][audio-binder]
 
 Then ...
 
 
 [audio-binder]: https://mybinder.org/v2/gh/boisgera/audio-notebooks/master
+
+## FAQ
+
+### Can I 
+
