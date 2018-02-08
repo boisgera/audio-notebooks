@@ -18,7 +18,9 @@ With Binder:
     
 
   - **You must download your notebooks to save your work.**  
-    Open the `File` menu then select `Download as` and  `Notebook (.ipynb)`.
+    Open the `File` menu then select `Download as` and  `Notebook (.ipynb)`
+    (you cannot also download any file -- not merely notebooks -- 
+    from the "filesystem view"; you can also upload files in this view).
 
     This is necessary since all your changes are lost when you close your browser.
     Also, the "disk" button -- `Save and Checkpoint` -- won't work
@@ -26,13 +28,14 @@ With Binder:
     in a [Linux container] hosted "somewhere in the cloud" and 
     that will be destroyed shortly.)
 
-If you want to work on
+If you want to work without Binder and you have a Linux computer 
+with [conda] available, download this project and execute:
 
-    $ conda env create -f environment.yml
-    $ source activate audio
-    (audio) $ jupyter notebook 
-
+    $ conda env create -f environment.yml # create the 'audio' environment
+    $ source activate audio               # activate 'audio'
+    (audio) $ jupyter notebook            # start the jupyter server
 
 
 [Binder]: https://mybinder.org/
 [Linux container]: https://en.wikipedia.org/wiki/Linux_containers
+[conda]: https://conda.io/docs/
