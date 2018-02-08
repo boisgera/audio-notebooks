@@ -29,7 +29,7 @@ With Binder:
     that will be destroyed shortly.)
 
 If you want to work without Binder and you have a Linux computer 
-with [conda] available, download this project and execute:
+with [conda] available, download the project files and execute:
 
     $ conda env create -f environment.yml   # create the 'audio' environment
     $ source activate audio                 # activate 'audio'
