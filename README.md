@@ -10,8 +10,12 @@ To get started: [![Launch Binder][binder-badge]][audio-binder]
 [audio-binder]: https://mybinder.org/v2/gh/boisgera/audio-notebooks/master
 
 [Binder] turns this GitHub repository into a collection of interactive notebooks.
-Binder sessions are ephemeral: all changes that you make (notebooks, sound files, 
-etc.) are lost when you close your browser.
+
+Each Binder session starts with a new copy of the files in repository: 
+you cannot break anything. 
+But all your changes are lost when you close your browser. 
+**You must download your notebooks to save your work.**
+Select `File / Download as / Notebook (.ipynb)` in a notebook.
 
 
 [Binder]: https://mybinder.org/
