@@ -4,7 +4,7 @@
 
 [audio]: https://eul.ink/audio
 
-Click on <span style="vertical-align:-5px;">[![Launch Binder][binder-badge]][audio-binder]<span> to get started.
+Click on <span style="vertical-align:-5px;">[![Launch Binder][binder-badge]][audio-binder]</span> to get started.
 
 
 [binder-badge]: https://img.shields.io/badge/Launch-Binder-blue.svg?style=flat-square
