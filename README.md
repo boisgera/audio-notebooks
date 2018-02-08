@@ -28,8 +28,8 @@ With Binder:
     in a [Linux container] hosted "somewhere in the cloud" and 
     that will be destroyed shortly.)
 
-If you want to work without Binder and you have a Linux computer 
-with [conda] available, download the project files and execute:
+To work without Binder, you need a Linux computer with [conda] available. 
+Download the project files and execute:
 
     $ conda env create -f environment.yml   # create the 'audio' environment
     $ source activate audio                 # activate 'audio'
