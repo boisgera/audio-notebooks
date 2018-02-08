@@ -4,7 +4,7 @@ Context: [Digital Audio Coding][audio] course (Mines ParisTech/S1916)
 
 [audio]: https://eul.ink/audio
 
-To get started: [![Launch Binder][binder-badge]][audio-binder]
+[![Launch Binder][binder-badge]][audio-binder]
 
 [binder-badge]: https://img.shields.io/badge/Launch-Binder-blue.svg?style=flat-square
 [audio-binder]: https://mybinder.org/v2/gh/boisgera/audio-notebooks/master
