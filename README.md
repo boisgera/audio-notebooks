@@ -14,7 +14,7 @@ With Binder:
 
 
   - **You can't break anything (no matter how hard you try).**  
-    Each Binder session starts with a new copy of the files in repository.  
+    Each Binder session starts with a fresh copy of the files in repository.  
     
 
   - **You must download your notebooks to save your work.**  
