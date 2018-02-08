@@ -11,15 +11,10 @@ Context: [Digital Audio Coding][audio] course (Mines ParisTech/S1916)
 
 
 
-[Binder] provides an environment to execute the Jupyter notebooks stored in this
-GitHub repository. 
-
-Learn more about [Jupyter notebooks][jupyter]
+[Binder] provides an environment to execute the [Jupyter notebooks][jupyter] stored in this
+GitHub repository.  With Binder:
 
 [jupyter]: http://jupyter.org/
-
-With Binder:
-
 
   - **You can't break anything (no matter how hard you try).**  
     Each Binder session starts with a fresh copy of the files in this repository.  
