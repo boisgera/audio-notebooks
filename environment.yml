@@ -16,6 +16,7 @@ dependencies:
     - audio.coders
     - audio.filters
     - audio.fourier
+    - audio.frames
     - audio.index
     - audio.lp
     - audio.psychoacoustics
