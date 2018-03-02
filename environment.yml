@@ -11,15 +11,17 @@ dependencies:
   - nltk
 #  - nltk_data # too large (>400MB) and I only need TIMIT.
   - pip:
-    - wish
-    - audio.bitstream
-    - audio.coders
-    - audio.filters
-    - audio.fourier
-    - audio.frames
-    - audio.index
-    - audio.lp
-    - audio.psychoacoustics
-    - audio.quantizers
-    - audio.wave
+    - wish==1.1.0
+    - logfile==1.2.0
+    - numtest==2.0.6
+    - audio.bitstream==2.5.4
+    - audio.coders==4.0.2
+    - audio.filters==0.2.2
+    - audio.fourier==0.1
+    - audio.frames==2.3.1
+    - audio.index==1.0.4
+    - audio.lp==1.0.0
+    - audio.psychoacoustics==1.0.4
+    - audio.quantizers==2.2
+    - audio.wave==4.0.2
 
